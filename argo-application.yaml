@@ -8,7 +8,7 @@ spec:
 
   source:
     repoURL: https://github.com/dzidziaka/argo-cd-demo
-    targetRevision: HEAD
+    targetRevision: main
     path: development
 
   destination: 
